@@ -137,21 +137,19 @@
 <h2 align="left">📊 Statistics</h2>
 
 <p align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrieldev-1&show_icons=true&hide=contribs,stars&theme=midnight-purple" alt="Anurag's GitHub stats" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev-1&theme=midnight-purple" alt="Top Langs"
+      src="https://github-readme-stats-two-beta-28.vercel.app/api?username=gabrieldev-1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Top Langs"
+  />    
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=gabrieldev-1&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Anurag's GitHub stats" 
   />
-
 </p>
 
 ###
