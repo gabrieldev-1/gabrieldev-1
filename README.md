@@ -13,17 +13,25 @@
         <img 
             alt="twitter profile" 
             title="Follow me on Twitter" 
-            src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"
+            src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/gabrieldev1/">
         <img 
             alt="linkedin_profile" 
             title="Follow me on Linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-    </a> 
+    </a>
+    <a href="mailto:seuemail@exemplo.com">
+        <img 
+            alt="gmail_contact" 
+            title="Contact me via Email"
+            src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
 </p>
+
 
 ###
 
