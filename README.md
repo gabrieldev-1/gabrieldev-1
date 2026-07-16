@@ -49,7 +49,7 @@
 ![Arduino](https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white)
-
+![VERCEL](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
